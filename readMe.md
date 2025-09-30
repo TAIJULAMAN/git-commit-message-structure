@@ -1,11 +1,9 @@
-# 📝 Git Commit Message Guide
+#  Git Commit Message Guide
 
 A clear and consistent commit message style improves project readability, history tracking, and collaboration.  
 This guide follows **Conventional Commits** best practices.
 
----
-
-## ✅ Principles
+##  Principles
 
 - **Imperative mood** → “Add feature” not “Added feature”  
 - **Concise subject** → ≤ 50 characters  
@@ -13,13 +11,7 @@ This guide follows **Conventional Commits** best practices.
 - **Explain what & why** → not just *how*  
 - **Blank line** between subject and body  
 
----
-
-## 🏗 Commit Message Structure
-
----
-
-## 🎯 Commit Types
+##  Commit Types
 
 - **feat:** new feature  
 - **fix:** bug fix  
@@ -30,9 +22,7 @@ This guide follows **Conventional Commits** best practices.
 - **test:** adding or updating tests  
 - **chore:** maintenance tasks (configs, CI/CD, dependencies)  
 
----
-
-## 🏆 Best Practices
+##  Best Practices
 
 - Capitalize subject line  
 - No period at the end of subject line  
