@@ -32,8 +32,6 @@ This guide follows **Conventional Commits** best practices.
 
 ---
 
----
-
 ## 🏆 Best Practices
 
 - Capitalize subject line  
@@ -43,7 +41,6 @@ This guide follows **Conventional Commits** best practices.
 - Keep commits focused and atomic  
 - Small changes (typo/format) → one-liner is fine  
 
----
 
 
 
